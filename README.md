@@ -1,0 +1,2 @@
+# responsiveEmailTemplates
+Responsive email templates
